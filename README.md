@@ -1,2 +1,2 @@
 # Algorithme-ninja-
-Stockage interne>Android>media>com.whatsapp>whatsApp>Media>whatsApp documents>private
+Stockage interne>Android>media>com.whatsapp>whatsApp>Media>whatsApp documents>private>LARP
